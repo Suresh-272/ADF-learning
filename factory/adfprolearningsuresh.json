@@ -1,0 +1,15 @@
+{
+	"name": "adfprolearningsuresh",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97598613-7b6c-4a9e-b747-88b025e20e52",
+		"tenantId": "25ae5a08-f29d-4970-914f-80135f19fe90"
+	}
+}
